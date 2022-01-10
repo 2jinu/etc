@@ -1,3 +1,12 @@
 1. https://front.codes/
 2. [index](https://codepen.io/ig_design/pen/yrwgwO)
-3. [effect](https://codepen.io/mrsahar/pen/PNGMLV)
+4. [countdown](https://codepen.io/chrisjdesigner/pen/dMbmoE)
+5. [input effect](https://freefrontend.com/css-input-text/)
+6. [form](https://codepen.io/bobbykorec/pen/qOGbyr)
+3. [hover effect1](https://codepen.io/mrsahar/pen/PNGMLV)
+7. [hover effect2](https://codepen.io/Cachilero/pen/NqNzVa)
+8. [focus lens](https://codepen.io/CameronFitzwilliam/pen/JJRjMa)
+9. [mail animation](https://codepen.io/felcans/pen/xOVBLY)
+10. [note animation](https://codepen.io/rafaelcastrocouto/pen/ijsbE)
+11. [+ form](https://codepen.io/Sheetal_gour/pen/GRvXjzW)
+12. [step form](https://codepen.io/pizzahunt/pen/VjJZXz)
